@@ -1,0 +1,132 @@
+@font-face {
+  font-family: "Telenor";
+  src: url("../fonts/Telenor/telenorlight-webfont.eot"); /* IE9 Compat Modes */
+  src: url("../fonts/Telenor/telenorlight-webfont.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../fonts/Telenor/telenorlight-webfont.otf") format("opentype"), /* Open Type Font */
+    url("../fonts/Telenor/telenorlight-webfont.svg") format("svg"), /* Legacy iOS */
+    url("../fonts/Telenor/telenorlight-webfont.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("../fonts/Telenor/telenorlight-webfont.woff") format("woff"), /* Modern Browsers */
+    url("../fonts/Telenor/telenorlight-webfont.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Telenor";
+  src: url("../fonts/Telenor/telenormedium-webfont.eot"); /* IE9 Compat Modes */
+  src: url("../fonts/Telenor/telenormedium-webfont.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../fonts/Telenor/telenormedium-webfont.otf") format("opentype"), /* Open Type Font */
+    url("../fonts/Telenor/telenormedium-webfont.svg") format("svg"), /* Legacy iOS */
+    url("../fonts/Telenor/telenormedium-webfont.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("../fonts/Telenor/telenormedium-webfont.woff") format("woff"), /* Modern Browsers */
+    url("../fonts/Telenor/telenormedium-webfont.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Telenor";
+  src: url("../fonts/Telenor/telenor-bold-hinted-webfont.eot"); /* IE9 Compat Modes */
+  src: url("../fonts/Telenor/telenor-bold-hinted-webfont.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../fonts/Telenor/telenor-bold-hinted-webfont.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/Telenor/telenor-bold-hinted-webfont.svg") format("svg"), /* Legacy iOS */
+    url("../fonts/Telenor/telenor-bold-hinted-webfont.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("../fonts/Telenor/telenor-bold-hinted-webfont.woff") format("woff"), /* Modern Browsers */
+    url("../fonts/Telenor/telenor-bold-hinted-webfont.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: bold;
+  font-style: normal;
+}
+
+
+
+
+
+
+
+
+
+@font-face {
+  font-family: "Hind Siliguri Light";
+  src: url("../fonts/Hind_Siliguri/HindSiliguriLight-Regular.eot"); /* IE9 Compat Modes */
+  src: url("../fonts/Hind_Siliguri/HindSiliguriLight-Regular.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../fonts/Hind_Siliguri/HindSiliguriLight-Regular.otf") format("opentype"), /* Open Type Font */
+    url("../fonts/Hind_Siliguri/HindSiliguriLight-Regular.svg") format("svg"), /* Legacy iOS */
+    url("../fonts/Hind_Siliguri/HindSiliguriLight-Regular.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("../fonts/Hind_Siliguri/HindSiliguriLight-Regular.woff") format("woff"), /* Modern Browsers */
+    url("../fonts/Hind_Siliguri/HindSiliguriLight-Regular.woff2") format("woff2"); /* Modern Browsers */
+    font-weight: 300;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: "Hind Siliguri Regular";
+  src: url("../fonts/Hind_Siliguri/HindSiliguri-RegularGhOgZt6.eot"); /* IE9 Compat Modes */
+  src: url("../fonts/Hind_Siliguri/HindSiliguri-RegularGhOgZt6.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../fonts/Hind_Siliguri/HindSiliguri-RegularGhOgZt6.otf") format("opentype"), /* Open Type Font */
+    url("../fonts/Hind_Siliguri/HindSiliguri-RegularGhOgZt6.svg") format("svg"), /* Legacy iOS */
+    url("../fonts/Hind_Siliguri/HindSiliguri-RegularGhOgZt6.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("../fonts/Hind_Siliguri/HindSiliguri-RegularGhOgZt6.woff") format("woff"), /* Modern Browsers */
+    url("../fonts/Hind_Siliguri/HindSiliguri-RegularGhOgZt6.woff2") format("woff2"); /* Modern Browsers */
+    font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Hind Siliguri Medium";
+  src: url("../fonts/Hind_Siliguri/HindSiliguriMedium-Regular.eot"); /* IE9 Compat Modes */
+  src: url("../fonts/Hind_Siliguri/HindSiliguriMedium-Regular.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../fonts/Hind_Siliguri/HindSiliguriMedium-Regular.otf") format("opentype"), /* Open Type Font */
+    url("../fonts/Hind_Siliguri/HindSiliguriMedium-Regular.svg") format("svg"), /* Legacy iOS */
+    url("../fonts/Hind_Siliguri/HindSiliguriMedium-Regular.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("../fonts/Hind_Siliguri/HindSiliguriMedium-Regular.woff") format("woff"), /* Modern Browsers */
+    url("../fonts/Hind_Siliguri/HindSiliguriMedium-Regular.woff2") format("woff2"); /* Modern Browsers */
+    font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Hind Siliguri SemiBold";
+  src: url("../fonts/Hind_Siliguri/HindSiliguriSemiBold-Regular.eot"); /* IE9 Compat Modes */
+  src: url("../fonts/Hind_Siliguri/HindSiliguriSemiBold-Regular.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../fonts/Hind_Siliguri/HindSiliguriSemiBold-Regular.otf") format("opentype"), /* Open Type Font */
+    url("../fonts/Hind_Siliguri/HindSiliguriSemiBold-Regular.svg") format("svg"), /* Legacy iOS */
+    url("../fonts/Hind_Siliguri/HindSiliguriSemiBold-Regular.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("../fonts/Hind_Siliguri/HindSiliguriSemiBold-Regular.woff") format("woff"), /* Modern Browsers */
+    url("../fonts/Hind_Siliguri/HindSiliguriSemiBold-Regular.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Hind Siliguri Bold";
+  src: url("../fonts/Hind_Siliguri/HindSiliguri-Bold.eot"); /* IE9 Compat Modes */
+  src: url("../fonts/Hind_Siliguri/HindSiliguri-Bold.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../fonts/Hind_Siliguri/HindSiliguri-Bold.otf") format("opentype"), /* Open Type Font */
+    url("../fonts/Hind_Siliguri/HindSiliguri-Bold.svg") format("svg"), /* Legacy iOS */
+    url("../fonts/Hind_Siliguri/HindSiliguri-Bold.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("../fonts/Hind_Siliguri/HindSiliguri-Bold.woff") format("woff"), /* Modern Browsers */
+    url("../fonts/Hind_Siliguri/HindSiliguri-Bold.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: 700;
+  font-style: normal;
+}
+
+
+
+
+
+
+
+@font-face {
+  font-family: "Cloister";
+  src: url("../fonts/Cloister/CloisterBlack.eot"); /* IE9 Compat Modes */
+  src: url("../fonts/Cloister/CloisterBlack.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+  /*url("../fonts/Cloister/CloisterBlack.otf") format("opentype"), /* Open Type Font */
+    url("../fonts/Cloister/CloisterBlack.svg") format("svg"), /* Legacy iOS */
+    url("../fonts/Cloister/CloisterBlack.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("../fonts/Cloister/CloisterBlack.woff") format("woff"), /* Modern Browsers */
+    url("../fonts/Cloister/CloisterBlack.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
